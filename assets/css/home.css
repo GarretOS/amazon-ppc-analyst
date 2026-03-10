@@ -13,18 +13,6 @@
   padding: 2.5rem 0 3rem;
 }
 
-.hero-headshot {
-  width: 110px;
-  height: 110px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #e8e8e8;
-  margin-bottom: 1.25rem;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .hero-name {
   font-size: 2.4rem;
   font-weight: 800;
