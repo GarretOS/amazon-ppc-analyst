@@ -51,7 +51,7 @@
   padding: 0.65rem 1.6rem;
   border-radius: 4px;
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-decoration: none !important;
   transition: background 0.2s;
   display: inline-block;
@@ -64,7 +64,7 @@
   padding: 0.65rem 1.6rem;
   border-radius: 4px;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 1rem;
   border: 1.5px solid #ccc;
   text-decoration: none !important;
   transition: border-color 0.2s, color 0.2s;
