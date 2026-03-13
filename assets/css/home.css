@@ -180,7 +180,7 @@
 .metric-arrow { color: #bbb; }
 .metric-after {
   font-weight: 700;
-  color: #2c3e50;
+  color: #1f2d3d;
 }
 .metric-label {
   text-transform: uppercase;
@@ -188,6 +188,7 @@
   color: #999;
   width: 100%;
   margin-top: 0.1rem;
+  white-space: nowrap;
 }
 
 /* TESTIMONIAL */
