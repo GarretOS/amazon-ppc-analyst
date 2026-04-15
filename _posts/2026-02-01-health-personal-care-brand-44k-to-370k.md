@@ -180,15 +180,15 @@ By early 2022, both ACOS and TACOS were climbing. But TACOS was rising faster. B
   .div-callout { display: inline-block; background: #faeeda; color: #633806; font-size: 11px; padding: 4px 10px; border-radius: 4px; margin-bottom: 12px; }
   .div-note { font-size: 11px; color: #999; margin-top: 10px; }
 </style>
-<div class="div-callout">TACOS crossed 20% by March 2022. A signal that paid was carrying more of the revenue load than organic.</div>
+<div class="div-callout">US TACOS crossed 20% by March 2022. A signal that paid was carrying more of the revenue load than organic.</div>
 <div class="div-legend">
-  <span><span class="div-swatch" style="background:#1a3a5c;"></span>TACOS %</span>
+  <span><span class="div-swatch" style="background:#1a3a5c;"></span>US TACOS %</span>
   <span><span class="div-swatch" style="background:#c0392b;"></span>Audit point</span>
 </div>
 <div style="position: relative; width: 100%; height: 260px;">
   <canvas id="divChart" role="img" aria-label="US TACOS from July 2021 to March 2022, rising from 17.35% to 20.70% with the audit initiated at March 2022.">US TACOS rose from 17.35% in July 2021, dipped to 13.76% in December 2021, then climbed to 20.70% by March 2022.</canvas>
 </div>
-<p class="div-note">TACOS dipped in the second half of 2021 as organic compounded, then rose sharply from January 2022 as spend increased without a matching organic lift.</p>
+<p class="div-note">US TACOS dipped in the second half of 2021 as organic compounded, then rose sharply from January 2022 as spend increased without a matching organic lift.</p>
 <script>
 (function() {
   var labels2 = ['Jul 21','Aug 21','Sep 21','Oct 21','Nov 21','Dec 21','Jan 22','Feb 22','Mar 22'];
@@ -225,7 +225,7 @@ By early 2022, both ACOS and TACOS were climbing. But TACOS was rising faster. B
 </script>
 </div>
 
-The March 2022 numbers made it concrete:
+The March 2022 US numbers made it concrete:
 
 <div class="case-study-viz">
 <style>
@@ -261,6 +261,9 @@ The March 2022 numbers made it concrete:
   </div>
 </div>
 </div>
+
+
+ACOS at 39% was workable. TACOS at 20% and rising was the signal. The account needed structural work before more budget went in.
 
 Campaigns were going out of budget 23% of the time. Amazon's native data showed the estimated missed sales in dollar terms. Based on that figure, roughly 25.7% of potential revenue was not captured during that period. The client's budget at the time was the primary constraint on growth, not campaign performance. With a bank loan now backing the account, that constraint was lifted.
 
@@ -379,7 +382,9 @@ The ASIN-level spend review gave context to the budget distribution. Two variant
 
 The campaign structure needed to evolve to handle the level of spend the client was committing to.
 
-With the audit complete, I worked through each area systematically. Proven converters got dedicated budgets and Top of Search modifiers. Spend was redirected away from high-TACOS variants toward those with demonstrated efficiency. 
+The UK told a different story. TACOS was healthy, sitting between 11% and 15%. But the audit surfaced structural gaps that would limit how far we could take it at scale.
+
+With the audit complete, I worked through each area systematically. Proven converters got dedicated budgets and Top of Search modifiers. Spend was redirected away from high-TACOS variants toward those with demonstrated efficiency.
 
 SD and SB-Headline campaigns had been running but were significantly underinvested. With the budget constraint lifted, both were scaled aggressively for the first time. Listing issues on the top ASINs in both markets were flagged and corrected.
 
@@ -472,17 +477,17 @@ The UK told a cleaner story. Revenue grew from roughly $50K at the start of 2022
 <p class="fn-section-label">US trajectory — total sales and TACOS</p>
 <div class="fn-legend">
   <span><span class="fn-swatch" style="background:#1a3a5c;"></span>Total sales</span>
-  <span><span class="fn-swatch" style="background:#c0392b;"></span>TACOS %</span>
+  <span><span class="fn-swatch" style="background:#e07b39;"></span>TACOS %</span>
 </div>
 <div style="position: relative; width: 100%; height: 280px;">
-  <canvas id="fnUsChart" role="img" aria-label="US monthly total sales and TACOS from July 2021 to December 2022.">US revenue grew from $17,236 to a peak of $164,934 before settling at $153,557. TACOS ranged from 13.76% to 20.70%.</canvas>
+  <canvas id="fnUsChart" role="img" aria-label="US monthly total sales and TACOS from July 2021 to December 2022.">US revenue grew from $17,236 to a peak of $164,934 before settling at $153,557. TACOS ranged from 13.76% to 23.64%.</canvas>
 </div>
 <p class="fn-chart-note">Hover over any point to see exact figures. TACOS peaked during aggressive scaling then moderated toward year end.</p>
 
 <p class="fn-section-label">UK trajectory — total sales and TACOS</p>
 <div class="fn-legend">
   <span><span class="fn-swatch" style="background:#4a90c4;"></span>Total sales (USD)</span>
-  <span><span class="fn-swatch" style="background:#c0392b;"></span>TACOS %</span>
+  <span><span class="fn-swatch" style="background:#e07b39;"></span>TACOS %</span>
 </div>
 <div style="position: relative; width: 100%; height: 280px;">
   <canvas id="fnUkChart" role="img" aria-label="UK monthly total sales in USD and TACOS from July 2021 to December 2022.">UK revenue grew steadily from $25,425 to $201,566. TACOS stayed between 11.28% and 17.40%.</canvas>
