@@ -75,7 +75,7 @@ I started with a full audit across listings, campaigns, and promotions before to
 
 ## What the Audit Found
 
-The listings were universally underoptimized. Every ASIN came back flagged as **"Underoptimized – Short"** across titles, bullet points, and backend keywords. No exceptions.
+The listings were universally underoptimized. Every ASIN came back with thin titles, incomplete bullet points, and generic backend keywords. No exceptions.
 
 Listings averaged fewer than 4 images when 7 slots are available. Zero ASINs had listing videos. A+ comparison modules and alt text were missing across the board.
 
