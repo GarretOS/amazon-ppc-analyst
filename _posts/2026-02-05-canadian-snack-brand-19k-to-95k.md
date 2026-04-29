@@ -63,7 +63,7 @@ I took over in late May 2024. Fourteen months later the account was generating $
 
 ---
 
-## What the Numbers Were Hiding
+## What I Was Walking Into
 
 The revenue number was not the problem. It was the symptom.
 
