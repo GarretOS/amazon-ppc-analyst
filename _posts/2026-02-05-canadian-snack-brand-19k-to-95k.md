@@ -16,11 +16,13 @@ tags: [amazon-ppc, canada, case-study, listing-optimization, ecommerce]
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 
-When I took over this account in late May 2024, the account was generating around $23K monthly on Amazon.ca. The client is an established Canadian meat snack brand with decades of retail presence. Real products. Real demand. What they did not have was a structure that could scale.
+Forty-plus ASINs. A catalog full of products people were actively searching for. And $23K in monthly revenue to show for it.
 
-Fourteen months later, the account was generating $95K in a single month at an 11.0% average TACoS.
+Something did not add up.
 
-This is the story of how that happened.
+The client is an established Canadian meat snack brand with decades of retail presence. The demand was there. The brand was there. What was missing was anyone paying attention to how the account was actually running.
+
+I took over in late May 2024. Fourteen months later the account was generating $95K monthly at an 11.0% average TACoS.
 
 <div class="case-study-viz">
 <style>
@@ -61,15 +63,15 @@ This is the story of how that happened.
 
 ---
 
-## Where It Started
+## What the Numbers Were Hiding
 
-At $23K monthly, the account had room to grow. But the problems ran deeper than the revenue number suggested.
+The revenue number was not the problem. It was the symptom.
 
-My first priority was not growth. It was understanding what I was working with.
+A catalog with 40+ active ASINs, a brand with genuine market presence, and campaigns that had been running on autopilot for years. Listings untouched. Coupons burning margin. Ad spend allocated to searches that were never going to convert.
 
-The catalog had 40+ active ASINs. Campaign structure was fragmented. Nobody had touched the listings in years. And the coupon strategy was burning margin without driving lift.
+The account was not failing. It was leaking. Quietly, consistently, across every layer.
 
-I started with a full audit across listings, campaigns, and promotions before touching a single bid.
+I pulled the data before touching a single bid. What I found shaped everything that followed.
 
 ---
 
