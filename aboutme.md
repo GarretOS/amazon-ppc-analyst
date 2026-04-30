@@ -1,77 +1,93 @@
 ---
 layout: page
 title: About Me
-subtitle: Amazon & Walmart Advertising Specialist
+subtitle: Amazon & Walmart PPC Analyst
 ---
 
-Hi, I'm **Garret Sumagang**, a performance marketing analyst who helps eCommerce sellers turn advertising data into profitable growth.
+I didn't start in PPC.
 
-I specialize in **Amazon and Walmart marketplace advertising**, using data-driven strategies to help brands increase revenue, reduce wasted ad spend, and achieve sustainable profitability in competitive markets.
+I studied Chemical Engineering at the University of the Philippines Los Baños. I graduated in 2020 with a degree built around one core skill: when something breaks, you don't guess. You isolate the system, trace it back to where it actually failed, and fix the root cause.
 
-### What I Do
+I've never stopped working that way.
 
-I transform complex advertising data into actionable insights that drive real business results. My approach combines:
+---
 
-- **Deep data analysis** using SQL, Python, and business intelligence tools
-- **Strategic campaign optimization** based on performance metrics, not guesswork  
-- **Advanced automation** through platforms like Scale Insights, Data Dive, and Perpetua
-- **Clear reporting** that turns numbers into business recommendations
+## How I ended up here
 
-### Results That Matter
+My contract as a math content developer ended in 2020. No savings runway. No backup plan. A pandemic, a laptop, and one clear realization: working from home was the only way forward.
 
-Over the past 4+ years, I've helped eCommerce sellers generate **$5M+ in additional revenue** through optimized marketplace advertising:
+I found a course on becoming an Amazon Account Manager. Most of it didn't click. But the advertising module did. The data, the structure, the logic of it felt familiar. I enrolled in a more specialized PPC course and went all in.
 
-- Frequently achieve **300%+ revenue increases** for growing brands
-- Reduce advertising costs by **50%+** while maintaining or increasing sales
-- Maintain an average **12% TACoS** across managed accounts
-- Worked with **100+ brands**, from startups to 8-figure sellers
+The first months were hard. My first Upwork client had unrealistic expectations and an even more unrealistic budget. It didn't work out. I went back to the data and kept going.
 
-**Client Highlights:**
-> *"Incredible, we exceeded our yearly sales revenue target of $1.2 Million!"*  
-> — Pet Brand on Amazon
+A recruiter found me. I got the role at Seller Interactive. Within months I was a Team Lead managing 12 to 15 specialists across 100+ accounts with $800K+ in monthly ad spend.
 
-> *"My TACoS dropped from 22% to 10%... I'm already a fan"*  
-> — CEO, Health & Beauty Brand
+Then I went back to freelancing. And I've been building ever since.
 
-> *"My revenue went from less than $1K to $10K within a few months."*  
-> — US Seller expanding to UK marketplace
+---
 
-### Technical Skills
+## How I work
 
-**Platforms & Tools:**
-- Amazon Advertising Console, Walmart Connect
-- Scale Insights, Data Dive, Helium 10, Jungle Scout, Perpetua
-- Brand Analytics, Keepa, Amazon Attribution
+I don't touch a single bid until I understand exactly what's broken and why.
 
-**Analytics & Visualization:**
-- SQL, BigQuery
-- Python (pandas, data analysis)
-- Excel, Google Sheets
-- Looker Studio, Tableau
+Every engagement starts with a full account audit. I check retail readiness, listing health, and conversion drivers before I scale a dollar of traffic. Most PPC problems aren't PPC problems. If you only look at the ads, you'll miss where the real issue lives.
 
-**Expertise:**
-- PPC campaign management & optimization
-- Keyword research & competitive analysis
-- Bid strategy development
-- Performance reporting & forecasting
-- A/B testing & experimentation
+That's the diagnosis-first approach. It's what I apply to every account, every time.
 
-### My Approach
+---
 
-I believe great marketing combines **art and science**: creative strategy backed by rigorous data analysis. 
+## Results
 
-Whether it's identifying untapped keyword opportunities, optimizing bid strategies, or building automated dashboards for real-time insights, I focus on what actually moves the needle: **profitable, sustainable growth**.
+**Health & Personal Care Brand (Freelance)**
+Scaled from $44K to $370K+ monthly revenue across 6 marketplaces (US, UK, DE, ES, IT, FR) in 18 months. $3.19M total revenue. 16.77% blended TACoS. 3.09x blended ROAS.
 
-### Background
+**UAE Health & Wellness Brand (Freelance)**
+Grew weekly PPC sales from AED 2.5K to AED 20K+ over 24 months. TACoS held at 12%. Earned Amazon's Choice badge.
 
-**Education:** University of the Philippines  
-**Experience:** 4+ years in eCommerce performance marketing  
-**Focus:** Amazon & Walmart marketplace advertising
+**Canadian Food Brand (TNT Ecommerce)**
+Grew from $23K to $95K monthly revenue in 14 months. TACoS as low as 7.5%.
 
-When I'm not analyzing campaign data or building optimization tools, you'll find me exploring new analytics techniques, staying current with marketplace algorithm changes, and sharing insights with the eCommerce community.
+**Canadian Health & Nutrition Brand (TNT Ecommerce)**
+Inherited at 42.1% TACoS. Rebuilt bidding strategy in one week. Nearly doubled revenue to $126K+ monthly. Closed at 15.8% TACoS in 15 months.
 
-### Let's Connect
+---
 
-Interested in discussing marketplace advertising strategies, data analytics, or potential opportunities?
+## What clients say
 
-[Download My Resume](/assets/garret-sumagang-resume.pdf) | [View My Projects](/projects) | [Contact Me](/contact)
+> "There are good PPC managers out there but there are FAR less that will go above and beyond for their clients to deliver real value. He genuinely cares about your bottom line. Very committed, quick to respond, and hard working."
+>
+> **Shane G.** · CEO (Verified, Upwork)
+
+---
+
+> "From the first moment, Garret demonstrated a thorough understanding of the system. I recall feeling a sense of relief — finally, someone who understood something that had baffled me since I started with PPC. Over the past four years, Garret has been amazing. I highly recommend him."
+>
+> **Ahmad K.** · CEO, Inmuscle Distribution (Verified, Upwork)
+
+---
+
+> "Garret stands out as exceptional. His attention to detail and thoroughness were evident from the outset. He provided comprehensive data that allowed me to make informed decisions. Unlike many freelancers who limit interaction to delivering work and sending messages, Garret was highly communicative and engaging. It felt like collaborating with a dedicated coworker, someone genuinely invested in my success."
+>
+> **Home Textile Client** · 5 stars (Verified, Upwork)
+
+---
+
+## What I'm building now
+
+I'm learning AI Engineering to build smarter data tools for Amazon sellers. Not to replace the analysis. To make it faster and more precise.
+
+I document the process publicly at [garretos.github.io](https://garretos.github.io).
+
+---
+
+## Tools
+
+Helium 10, Data Dive, Perpetua, Scale Insights, Brand Analytics, Keepa, Amazon Attribution, Jungle Scout, Excel, Google Sheets, Looker Studio
+
+---
+
+## Let's talk
+
+If your ad spend is climbing but profits aren't, let's find out why.
+
+[Book a Free Discovery Call](https://calendly.com/garret-sumagang){: .btn .btn-primary}
