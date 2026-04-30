@@ -2,7 +2,7 @@
 layout: post
 title: "Three Mandates, One Account: A 15-Month Amazon PPC Adaptation Story"
 subtitle: "From $68K to $126K peak monthly revenue. TACoS from 42% to 15.8%. Three completely different goals."
-date: 2026-04-29
+date: 2026-02-12
 author: Garret Sumagang
 tags: [amazon-ppc, canada, case-study, adaptability, ecommerce]
 ---
