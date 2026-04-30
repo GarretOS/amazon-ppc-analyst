@@ -1,39 +1,17 @@
 ---
 layout: page
 title: Contact
-subtitle: Let's connect and discuss eCommerce analytics
+subtitle: Let's find where your ad spend is leaking
 ---
 
-I'm always interested in connecting with fellow marketing analysts, discussing optimization strategies, or exploring new opportunities in performance marketing and data analytics.
+If your TACoS won't budge or your revenue has plateaued, there's usually a structural reason. It's rarely just the bids.
 
-### Get In Touch
+A 30-minute call is enough to understand your situation and tell you whether I can help. No prep needed on your end.
 
-<div style="margin: 2rem 0;">
-  <a href="https://calendly.com/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #006bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; margin-bottom: 10px;">
-    📅 Schedule a Discovery Call
-  </a>
-  
-  <a href="https://www.linkedin.com/in/garret-sumagang" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; margin-bottom: 10px;">
-    💼 Connect on LinkedIn
-  </a>
-  
-  <a href="mailto:nosumagang@up.edu.ph" style="display: inline-block; padding: 12px 24px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 5px; margin-bottom: 10px;">
-    📧 Email Me
-  </a>
-</div>
+[Book a Free Discovery Call](https://calendly.com/garret-sumagang){: .btn .btn-primary}
 
 ---
 
-### What I Can Help With
+Prefer email? [nosumagang@up.edu.ph](mailto:nosumagang@up.edu.ph)
 
-**Amazon & Walmart advertising optimization** – Strategic campaign management and bid optimization
-
-**Performance marketing analytics** – Data-driven insights to improve ROAS and reduce wasted spend
-
-**Data visualization and dashboard creation** – Automated reporting that turns numbers into action
-
-**Campaign performance analysis** – Deep-dive audits and optimization recommendations
-
-**eCommerce marketplace strategies** – Growth strategies for competitive niches
-
-Feel free to reach out if you'd like to discuss any of these topics or explore collaboration opportunities!
+Connect on [LinkedIn](https://linkedin.com/in/garret-sumagang)
