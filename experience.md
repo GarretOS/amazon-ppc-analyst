@@ -25,8 +25,6 @@ Over 5+ years, that approach has produced $13M+ in revenue influenced across 100
 
 **Marketplaces:** US, UK, CA, UAE, EU (DE, FR, IT, ES)
 
-**Tools:** Helium 10, Data Dive, Perpetua, Scale Insights, Brand Analytics, Keepa, Amazon Attribution
-
 ---
 
 ## Amazon PPC Analyst
@@ -45,8 +43,6 @@ This one started at $68K monthly and 42.1% TACoS. Month one, the client wanted a
 Two completely different goals. Both delivered.
 
 Part of my role also included co-authoring business intelligence presentations to pitch and close new clients, including an established Canadian food brand with strong retail presence.
-
-**Tools:** Helium 10, Data Dive, Perpetua, Scale Insights, Excel, Google Sheets
 
 ---
 
