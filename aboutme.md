@@ -90,4 +90,4 @@ Helium 10, Data Dive, Perpetua, Scale Insights, Brand Analytics, Keepa, Amazon A
 
 If your ad spend is climbing but profits aren't, let's find out why.
 
-[Book a Free Discovery Call](https://calendly.com/garret-sumagang){: .btn .btn-primary}
+[Book a Free Discovery Call](https://calendly.com/garret-sumagang/discovery-call){: .btn .btn-primary}
