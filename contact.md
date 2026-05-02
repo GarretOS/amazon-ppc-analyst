@@ -8,10 +8,10 @@ If your TACoS won't budge or your revenue has plateaued, there's usually a struc
 
 A 30-minute call is enough to understand your situation and tell you whether I can help. No prep needed on your end.
 
-[Book a Free Discovery Call](https://calendly.com/garret-sumagang){: .btn .btn-primary}
+[Book a Free Discovery Call](https://calendly.com/garret-sumagang/discovery-call){: .btn .btn-primary}
 
 ---
 
 Prefer email? [nosumagang@up.edu.ph](mailto:nosumagang@up.edu.ph)
 
-Connect on [LinkedIn](https://linkedin.com/in/garret-sumagang/discovery-call)
+Connect on [LinkedIn](https://linkedin.com/in/garret-sumagang)
