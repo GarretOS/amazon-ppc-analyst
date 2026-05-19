@@ -86,4 +86,4 @@ I use that same diagnostic logic on every account I audit.
 
 ---
 
-[Download My Resume](/assets/garret-sumagang-resume-2026.pdf){: .btn .btn-primary}
+[Download My Resume]({{ site.baseurl }}/assets/garret-sumagang-resume-2026.pdf){: .btn .btn-primary}
