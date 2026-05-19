@@ -12,6 +12,6 @@ A 30-minute call is enough to understand your situation and tell you whether I c
 
 ---
 
-Prefer email? [nosumagang@up.edu.ph](mailto:nosumagang@up.edu.ph)
+Prefer email? [ngosumagang@gmail.com](mailto:ngosumagang@gmail.com)
 
 Connect on [LinkedIn](https://linkedin.com/in/garret-sumagang)
